@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/arrows">
+        <file>arrow1_e.gif</file>
+        <file>arrow1_n.gif</file>
+        <file>arrow1_s.gif</file>
+        <file>arrow1_w.gif</file>
+    </qresource>
+</RCC>
